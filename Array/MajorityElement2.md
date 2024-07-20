@@ -21,12 +21,12 @@ Given an integer array `nums` of size `n`, find all elements that appear more th
 
 ## Constraints:
 
-- 1 <= nums.length <= 5 * 10<sup>4</sup>
-- -10<sup>9</sup> <= nums[i] <= 10<sup>9</sup>
+- 1 <= `nums.length` <= 5 * 10<sup>4</sup>
+- -10<sup>9</sup> <= `nums[i]` <= 10<sup>9</sup>
 
 ## Follow up:
 
-Could you solve the problem in linear time and in O(1) space?
+Could you solve the problem in linear time and in `O(1)` space?
 
 
 ### Solution :
