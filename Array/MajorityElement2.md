@@ -21,8 +21,8 @@ Given an integer array of size n, find all elements that appear more than ⌊ n/
 
 ## Constraints:
 
-- 1 <= nums.length <= 5 * 10^4
-- `-10<sup>9</sup>` <= nums[i] <= `10^9`
+- 1 <= nums.length <= 5 * 10<sup>4</sup>
+- -10<sup>9</sup> <= nums[i] <= 10<sup>9</sup>
 
 ## Follow up:
 
