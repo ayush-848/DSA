@@ -1,6 +1,6 @@
 # 229. Majority Element II
 
-Given an integer array of size n, find all elements that appear more than ⌊ n/3 ⌋ times.
+Given an integer array `nums` of size `n`, find all elements that appear more than `⌊ n/3 ⌋` times.
 
 ## Examples
 
