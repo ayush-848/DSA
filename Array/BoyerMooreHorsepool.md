@@ -8,7 +8,7 @@ Given a text `hellohowareyouhellohowdoyoudo` and a pattern `how`, use the Boyer-
 - Pattern: `how`
 
 ### Expected Output
-The pattern `how` appears at indices 5 and 17 in the text.
+The pattern `how` appears at indices `5` and `17` in the text.
 
 ### Solution
 
