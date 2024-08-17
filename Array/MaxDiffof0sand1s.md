@@ -8,8 +8,8 @@ Given a binary string S consisting of 0s and 1s. The task is to find the maximum
 
 ### Example 1:
 
-**Input:** S = "11000010001" 
-**Output:** 6 
+**Input:** S = "11000010001" </br>
+**Output:** = 6 </br>
 **Explanation:** From index 2 to index 9, there are 7 0s and 1 1s, so number of 0s - number of 1s is 6. 
 
 ### Example 2:
